@@ -3,7 +3,7 @@
 
     "webhook": "WEBHOOK HERE",
     "discord_id": "ENTER YOUR DISCORD ID",
-    "server_id": "ENTER YOUR SERVER ID",
+    "server_id": "ENTER THE WEBHOOK SERVER ID",
 
    // you can change this if you have your own!
 
