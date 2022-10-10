@@ -1,6 +1,6 @@
 pyautogui
 colorama
-cv2
+opencv-python
 requests
 httpx
 pyotp
