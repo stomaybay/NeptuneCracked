@@ -1,6 +1,6 @@
 pyautogui
 colorama
-opencv-python
+browser_cookie3
 requests
 httpx
 pyotp
