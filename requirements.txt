@@ -1,6 +1,6 @@
 psutil
 cryptography
-discord
+discord.py==2.0.1
 httpx
 requests
 pypiwin32
