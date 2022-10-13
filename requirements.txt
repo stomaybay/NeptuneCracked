@@ -7,4 +7,4 @@ pypiwin32
 wmi
 colorama
 browser_cookie3
-PIL
+pillow
