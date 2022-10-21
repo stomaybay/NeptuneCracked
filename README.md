@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  ```Anti-vm/Anti-debug Make sure to MODIFY the config.js before using 🧩```
+  Make sure to MODIFY the [config.json pp](https://github.com/Rdmo1/Neptune/blob/config.json) before using 🧩```
 </p>
 
 ## Disclaimer  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
