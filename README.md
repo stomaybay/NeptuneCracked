@@ -32,7 +32,7 @@
 |Education Purpose Only.|
 |-------------------------------------------------|
 This project was created only for good purposes and personal use.
-By using Discord Multi Tool, you agree that you hold responsibility and accountability of any consequences caused by your actions.
+By using Neptune Multi Tool, you agree that you hold responsibility and accountability of any consequences caused by your actions.
 Source Code is 10$ 💰 dm me to buy
 
 ## Features  <img src="https://cdn3.emoji.gg/emojis/7277_green_flame.gif" width="30px"/>
@@ -52,7 +52,7 @@ Source Code is 10$ 💰 dm me to buy
 </p>
 
 ```
-60 repo stars + discord source bot viewer 👀
+80 repo stars + discord source bot viewer 👀
 ```
 
 
