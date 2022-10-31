@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 align="center">Fixing crashing error...please wait </h1>
+<h1 align="center">Neptune Multi Tool 🛠️ </h1>
 <p align="center">
   <a href="https://github.com/Rdmo1/DisRo-Multi-Tool/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-important">
