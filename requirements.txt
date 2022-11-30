@@ -3,3 +3,4 @@ pyzipper
 discord_webhook
 colorama
 pycryptodomex
+httpx
