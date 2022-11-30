@@ -1,11 +1,5 @@
-psutil
-cryptography
-discord.py==2.0.0
-discord==2.0.0
-httpx
-tqdm
-requests
 pypiwin32
-wmi
+pyzipper
+discord_webhook
 colorama
-pillow
+pycryptodomex
