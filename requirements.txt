@@ -4,3 +4,4 @@ discord_webhook
 colorama
 pycryptodomex
 httpx
+psutil
