@@ -5,3 +5,4 @@ colorama
 pycryptodomex
 httpx
 psutil
+pillow
