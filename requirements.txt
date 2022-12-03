@@ -1,8 +1,10 @@
 pypiwin32
 pyzipper
-discord_webhook
 colorama
-pycryptodomex
+pycryptodome
 httpx
 psutil
 pillow
+wmi
+discord
+
