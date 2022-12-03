@@ -6,5 +6,6 @@ httpx
 psutil
 pillow
 wmi
+discord.py
 discord
 
