@@ -61,7 +61,7 @@ Source Code is 10$ 💰 dm me to buy
 
 #### 1st・Installation (Automated installation)
 ```
-Launch the launcher.bat file.
+Launch the setup.bat file.
 ```
 
 #### 2nd・Installation (Manual installation)
@@ -82,7 +82,7 @@ General Informations:
 ## Multi Tool Crashing? <img src="https://cdn3.emoji.gg/emojis/7277_green_flame.gif" width="30px"/>
 </h1>
 
-> try to reinstall python, if not work contact me on discord!: Rdmo1#1389
+> try to reinstall python, if not work contact me on discord!: Rdmo1#3179
 
 > You probably have python 3.10 which has some new shit so downgrade to [python 3.9](https://www.python.org/downloads/release/python-397/)
 
