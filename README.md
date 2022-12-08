@@ -23,8 +23,10 @@
 </p>
 
 <p align="center">
-  ``` ⭐ SELLING the license key for cheap price!
-Add me on discord: Rdmo1#3179```
+
+```
+80 repo stars + discord source bot viewer 👀
+```
 </p>
 
 ## Disclaimer  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
