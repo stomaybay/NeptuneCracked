@@ -23,8 +23,8 @@
 </p>
 
 <p align="center">
-  ⚠️ SELLING the license key for cheap price!
-Add me on discord: Rdmo1#3179
+  ``` ⭐ SELLING the license key for cheap price!
+Add me on discord: Rdmo1#3179```
 </p>
 
 ## Disclaimer  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
