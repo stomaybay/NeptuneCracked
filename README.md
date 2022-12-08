@@ -25,10 +25,12 @@
 <p align="center">
 
 ```
-               ⭐ Selling the license key for cheap price!
-                  Add me on discord: Rdmo1#3179
+⭐ Selling the license key for cheap price!
+Add me on discord: Rdmo1#3179
 
-The license key is the key for it to WORK```
+The license key is the key for it to WORK
+
+```
 </p>
 
 ## Disclaimer  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
