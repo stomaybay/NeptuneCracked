@@ -58,7 +58,7 @@ By using Neptune Multi Tool, you agree that you hold responsibility and accounta
 </p>
 
 ```
-80 repo stars + discord source bot viewer 👀
+100 repo stars + discord source bot viewer 👀
 ```
 
 
