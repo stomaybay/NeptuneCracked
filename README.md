@@ -23,7 +23,8 @@
 </p>
 
 <p align="center">
-  MODIFY the config.json before using 🛠️
+  ⚠️ SELLING the license key for cheap price!
+Add me on discord: Rdmo1#3179
 </p>
 
 ## Disclaimer  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -33,7 +34,6 @@
 |-------------------------------------------------|
 This project was created only for good purposes and personal use.
 By using Neptune Multi Tool, you agree that you hold responsibility and accountability of any consequences caused by your actions.
-Source Code is 10$ 💰 dm me to buy
 
 ## Features  <img src="https://cdn3.emoji.gg/emojis/7277_green_flame.gif" width="30px"/>
 </h1>
