@@ -25,10 +25,11 @@
 <p align="center">
 
 ```
-  ⭐ Selling the license key for cheap price!
-      Add me on discord: Rdmo1#3179
+  ⭐ Selling the license key + zip file for cheap price!
+      Add me on discord: FlopChopl || free paypal b4u#7855
 
 The license key is the key for it to WORK
+It will ask for key you copy and paste it
 
 ```
 </p>
@@ -65,30 +66,8 @@ By using Neptune Multi Tool, you agree that you hold responsibility and accounta
 ## Installation <img src="https://cdn3.emoji.gg/emojis/7277_green_flame.gif" width="30px"/>
 </h1>
 
-#### 1st・Installation (Automated installation)
-```
-Launch the setup.bat file.
-```
-
-#### 2nd・Installation (Manual installation)
-```
-$ git clone https://github.com/Rdmo1/Neptune
-$ python3 -m pip install -r requirements.txt
-$ python3 neptune.py
-```
-
-## Additional Informations 
-General Informations:
-> Find your output files in the output folder 📁
-> If you find any malfunction, contact me on Discord: Rdmo1#3179
-
-## Tutorial 🔦
-- ⚒️ do you want tutorial? you can watch [here](https://streamable.com/s5de26)
-
-## Multi Tool Crashing? <img src="https://cdn3.emoji.gg/emojis/7277_green_flame.gif" width="30px"/>
+ps://cdn3.emoji.gg/emojis/7277_green_flame.gif" width="30px"/>
 </h1>
-
-> try to reinstall python, if not work contact me on discord!: Rdmo1#3179
 
 > You probably have python 3.10 which has some new shit so downgrade to [python 3.9](https://www.python.org/downloads/release/python-397/)
 
