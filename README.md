@@ -64,12 +64,15 @@ By using Neptune Multi Tool, you agree that you hold responsibility and accounta
 
 
 ## Installation <img src="https://cdn3.emoji.gg/emojis/7277_green_flame.gif" width="30px"/>
-</h1>
 
-ps://cdn3.emoji.gg/emojis/7277_green_flame.gif" width="30px"/>
-</h1>
+<p align="center">
 
-> You probably have python 3.10 which has some new shit so downgrade to [python 3.9](https://www.python.org/downloads/release/python-397/)
+```
+  ⭐ Just launch setup.bat for automatic installation
+```
+</p>
+
+> You need [python 3.9](https://www.python.org/downloads/release/python-397/)
 
 ## Python was not Found? <img src="https://cdn3.emoji.gg/emojis/7277_green_flame.gif" width="30px"/>
 </h1>
