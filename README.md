@@ -25,11 +25,11 @@
 <p align="center">
 
 ```
-  ⭐ Selling the license key + zip file for cheap price!
-      Add me on discord: FlopChopl || free paypal b4u#7855
+  ⭐ Selling the license key + the tool for 3$
+     Add me on discord: Asuz#7022
 
-The license key is the key for it to WORK
-It will ask for key you copy and paste it
+    The license key is the key for it to WORK
+    It will ask for key you copy AND paste it
 
 ```
 </p>
