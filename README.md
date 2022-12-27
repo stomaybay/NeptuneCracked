@@ -39,7 +39,7 @@
 This project was created only for good purposes and personal use.
 By using Neptune Multi Tool, you agree that you hold responsibility and accountability of any consequences caused by your actions.
 
-## Features  <img src="https://cdn3.emoji.gg/emojis/7277_green_flame.gif" width="30px"/>
+## Preview  <img src="https://cdn3.emoji.gg/emojis/1676-cameracat.png" width="30px"/>
 </h1>
 
 
