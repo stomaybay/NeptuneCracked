@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://media.discordapp.net/attachments/1006899534078685254/1032904143624491078/unknown.png">
-</p>
-
-
 <h1 align="center">Neptune Multi Tool 🛠️ </h1>
 <p align="center">
   <a href="https://github.com/Rdmo1/DisRo-Multi-Tool/blob/main/LICENSE">
@@ -29,8 +24,7 @@
      Add me on discord: Asuz#7022
 
     The license key is the key for it to WORK
-    It will ask for key you copy AND paste it
-
+    It will ask for key you copy AND paste it ⭐
 ```
 </p>
 
@@ -46,12 +40,11 @@ By using Neptune Multi Tool, you agree that you hold responsibility and accounta
 </h1>
 
 
-- [x] - [Discord Webhook Spammer]() - Spam discord webhook in multiple times.
-- [x] - [Discord Webhook Deleter]() - Delete a discord webhook.
-- [x] - [Discord Server Lookup]() - Grab the server icon, banner , name & find the discord tag of the owner.
-- [x] - [Roblox Auto Trade]() - Auto Trade api that will trade your limiteds of the value you want.
-- [x] - [Roblox Pin Cracker]() - Crack Roblox pin within 7 minutes & automatic bypass 'system error' thanks to proxy
-- [x] - [and much much more!]() 
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/1006899534078685254/1032904143624491078/unknown.png">
+</p>
+
+
 
 
 <p align="center">
