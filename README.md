@@ -21,7 +21,7 @@
 
 ```
   ⭐ Selling the the tool + key for 3$ 🟢
-     Add me on discord: Asuz#7022
+     Add me on discord: FlopChopl#7022
 
      The license key is the key for it to WORK
      It will ask for key you copy AND paste it
