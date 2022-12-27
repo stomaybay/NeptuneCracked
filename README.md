@@ -26,8 +26,8 @@
      The license key is the key for it to WORK
      It will ask for key you copy AND paste it
      Key only work for one devices 
-     And Free Updates file everytime i UPDATE
-     ⭐
+     And Free Updates file everytime i UPDATE ⭐
+     
 ```
 </p>
 
