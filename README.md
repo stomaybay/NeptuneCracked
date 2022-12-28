@@ -68,7 +68,7 @@ if we hit 100 repo stars, i'll be adding some new features and UPDATES!
 ```
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/b4909d8c45134b255c5e0c959cbca68f655d044e944c39fdcd91bbbb5d58eb1e/68747470733a2f2f692e646973636f72642e66722f5053532e706e67">
+  <img src="https://cdn.discordapp.com/attachments/1052511668585902080/1057544397425745980/pixel-jeff-christmas.gif">
 </p>
 
 ## Installation <img src="https://cdn3.emoji.gg/emojis/7277_green_flame.gif" width="30px"/>
