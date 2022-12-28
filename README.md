@@ -48,7 +48,8 @@
 |Education Purpose Only.|
 |-------------------------------------------------|
 This project was created only for good purposes and personal use.
-By using Neptune Multi Tool, you agree that you hold responsibility and accountability of any consequences caused by your actions.
+Please be aware that your action have consequences.
+Becareful Using this tool, i am warning you to use this tool for Education Purpose Only 👀.
 
 ## Preview  <img src="https://cdn3.emoji.gg/emojis/1676-cameracat.png" width="30px"/>
 </h1>
