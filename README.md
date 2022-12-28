@@ -20,15 +20,15 @@
 <p align="center">
 
 ```
-  ⭐ Selling the the tool + key for 10$ ⭐
-     Add me on discord: FlopChopl#7022
+  Selling the the tool + key for 10$ ⭐
+  Add me on discord: FlopChopl#7022
      
-  ⭐ Payment method: PayPal & Crypto only ⭐
+  Payment method: PayPal & Crypto only ⭐
 
-     The license key is the key for it to WORK
-     It will ask for key you copy AND paste it
-     Key only work for one devices 
-  ⭐ And Free Updates, everytime I UPDATE ⭐
+  The license key is the key for it to WORK
+  It will ask for key you copy AND paste it
+  Key only work for one devices 
+  And Free Updates, everytime I UPDATE ⭐
      
 ```
 </p>
