@@ -64,7 +64,7 @@ Becareful Using this tool, i am warning you to use this tool for Education Purpo
 
 
 ```
-100 repo stars + discord source bot viewer 👀
+if we hit 100 repo stars, i'll be adding some new features and UPDATES! 
 ```
 
 <p align="center">
