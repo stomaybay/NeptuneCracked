@@ -96,4 +96,4 @@ if we hit 100 repo stars, i'll be adding some new features and UPDATES!
 ``` Try the new updated and new features of Hazard Token Grabber v3
    New Features and Grabber soon... 👀
 
-> https://github.com/Rdmo1/Hazard-Token-Grabber-V3```
+> https://github.com/Rdmo1/Hazard-Token-Grabber-V3
