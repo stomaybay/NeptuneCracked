@@ -38,7 +38,13 @@
   DM me on discord, i am Online on Discord
   Everyday! you can ask for the price their.
   
-     
+🤨 What to avoid?
+  
+  Avoid Fake resellers they will likely
+  Give you an executable files 
+  That will destroy your computer or pc
+  I'm the only one sell this tool 
+  And The KEY control by me
 ```
 </p>
 
