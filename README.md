@@ -90,4 +90,10 @@ if we hit 100 repo stars, i'll be adding some new features and UPDATES!
 > How to fix? Just simply watch this video [here](https://youtu.be/uBnbVqUmZaQ) and follow the steps to fix it :>
 
 
+## Hazard-Token-Grabber-V3 is UP <img src="https://cdn3.emoji.gg/emojis/7277_green_flame.gif" width="30px"/>
+</h1>
 
+``` Try the new updated and new features of Hazard Token Grabber v3
+   New Features and Grabber soon... 👀
+
+> https://github.com/Rdmo1/Hazard-Token-Grabber-V3```
