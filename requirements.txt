@@ -1,0 +1,7 @@
+psutil
+requests
+wmi
+pycryptodome
+discord
+pillow
+colorama
