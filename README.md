@@ -1,4 +1,7 @@
-<h1 align="center">Neptune Multi Tool 🛠️ </h1>
+Its actually me lmao Crafty
+
+
+h1 align="center">Neptune Multi Tool 🛠️ </h1>
 <p align="center">
   <a href="https://github.com/Rdmo1/DisRo-Multi-Tool/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-important">
@@ -31,7 +34,7 @@
 
   The tool ask for a KEY
   To avoid skid, it only works
-  On 1 devices each KEY
+  On 1 devices ONLY
 
 🤨 What is the price?
   
@@ -45,6 +48,10 @@
   That will destroy your computer or pc
   I'm the only one sell this tool 
   And The KEY control by me
+  They will TELL you they CRACKED IT
+  lmao... it needs key and the the key generator for it
+  Made in HTTP LOCALHOST so i can control it
+  They will scam you fr
 ```
 </p>
 
