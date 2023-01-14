@@ -1,0 +1,15 @@
+# Key for the tool to work & to avoid crashing
+
+key = ""
+
+# If you want to bypass captcha use ( capmonster, 2captcha & other ) key 
+
+captcha_key = ""
+
+# Your webhook for the grabber options
+
+webhook = ""
+
+# Proxy type example ( http, socks4, & socks5 )
+
+proxy_type = ""
