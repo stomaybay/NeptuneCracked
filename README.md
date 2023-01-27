@@ -26,7 +26,7 @@
   The tool is currently for SALE right now
   You can purchase it for a reasoning price
   
-  Add me on discord: CraftyCanyon#0843
+  Add me on discord: Rdmo1#0843
   
 🔊 Info about the key
 
