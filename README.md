@@ -25,6 +25,7 @@
 
   The tool is currently for SALE right now
   You can purchase it for a reasoning price
+  JOIN MY SERVER TO SEE MY VOUCH: https://t.me/rdmovouch
   
   Add me on discord: Rdmo1#0843
   
@@ -37,7 +38,8 @@
 🤨 What is the price?
   
   DM me on discord, i am Online on Discord
-  Everyday! you can ask for the price their.
+  Everyday! you can ask for the price their
+  Im fast at replying.
   
 🤨 What to avoid?
   
@@ -47,9 +49,9 @@
   I'm the only one sell this tool 
   And The KEY control by me
   They will TELL you they CRACKED IT
-  lmao... it needs key and the the key generator for it
+  It needs key and the the key generator for it
   Made in HTTP LOCALHOST so i can control it
-  They will scam you fr
+  They will likely to scam you
 ```
 </p>
 
