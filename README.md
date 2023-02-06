@@ -21,37 +21,46 @@
 <p align="center">
 
 ```
-⚙️ Information
+ 📌 Information
 
-  The tool is currently for SALE right now
-  You can purchase it for a reasoning price
-  JOIN MY SERVER TO SEE MY VOUCH: https://t.me/rdmovouch
+  The Neptune Multi Tool is currently for SALE right now
+  you can purchase it for a reasoning price.
   
-  Add me on discord: Rdmo1#0843
   
-🔊 Info about the key
+ 📌 Social
+  
+  Discord: Rdmo1#0843
+  Vouch: https://t.me/rdmovouch
+  
+ 📌 Key Information
 
-  The tool ask for a KEY
-  To avoid skid, it only works
-  On 1 devices ONLY
+  The key was intentionally made in a site controlled
+  by a paid domain.
+  In that section we can control all the key that is sold.
+  key only work on 1 device and same ip.
+ 
+ 📌 Price Information 
+  
+  Add me on discord, you can ask for the price in my discord
+  check the Social above to see my username and tag
+  go to the telegram channel to see all the review and people that bought
+  the key.
+  
+ ⚠️ IMPORTANT ⚠️
 
-🤨 What is the price?
-  
-  DM me on discord, i am Online on Discord
-  Everyday! you can ask for the price their
-  Im fast at replying.
-  
-🤨 What to avoid?
-  
-  Avoid Fake resellers they will likely
-  Give you an executable files 
-  That will destroy your computer or pc
-  I'm the only one sell this tool 
-  And The KEY control by me
-  They will TELL you they CRACKED IT
-  It needs key and the the key generator for it
-  Made in HTTP LOCALHOST so i can control it
-  They will likely to scam you
+  Make sure to avoid people that sell the Neptune Multi Tool.
+  they will tell you that they reversed/cracked it.
+  probably sell it for higher prices.
+  after they scam you they will give you an executable file or obfuscated python code
+  that will log you or rat you.
+
+ 📣 REMEMBER
+
+ That the key cant be shared nor reverse/crack it because it is only control
+ by a domain.
+ remember i am the only one can control the key and devices no others.
+
+ DO NOT TRUST "RESELLER/E-VENDOR" OF THE NEPTUNE MULTI TOOL
 ```
 </p>
 
@@ -74,12 +83,6 @@ Becareful Using this tool, i am warning you to use this tool for Education Purpo
 
 
 
-
-
-```
-if we hit 100 repo stars, i'll be adding some new features and UPDATES! 
-```
-
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1052511668585902080/1057544397425745980/pixel-jeff-christmas.gif">
 </p>
@@ -93,20 +96,11 @@ if we hit 100 repo stars, i'll be adding some new features and UPDATES!
 ```
 </p>
 
-> You need [python 3.9](https://www.python.org/downloads/release/python-397/)
+> You need [python version 3.9](https://www.python.org/downloads/release/python-397/)
 
 ## Python was not Found? <img src="https://cdn3.emoji.gg/emojis/7277_green_flame.gif" width="30px"/>
 </h1>
 
 > Getting this Error? You probably just installed python
 
-> How to fix? Just simply watch this video [here](https://youtu.be/uBnbVqUmZaQ) and follow the steps to fix it :>
-
-
-## Hazard-Token-Grabber-V3 is UP <img src="https://cdn3.emoji.gg/emojis/7277_green_flame.gif" width="30px"/>
-</h1>
-
-``` Try the new updated and new features of Hazard Token Grabber v3
-   New Features and Grabber soon... 👀
-
-> https://github.com/Rdmo1/Hazard-Token-Grabber-V3
+> How to fix? Just simply watch this video [here](https://youtu.be/uBnbVqUmZaQ) and follow the steps 
