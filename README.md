@@ -29,7 +29,7 @@
   
  📌 Social
   
-  Discord: Rdmo1#0843
+  Discord: discord got disabled coming back with new one
   Vouch: https://t.me/rdmovouch
   
  📌 Key Information
