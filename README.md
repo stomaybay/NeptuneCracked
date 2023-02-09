@@ -29,7 +29,7 @@
   
  📌 Social
   
-  Discord: Rdmo1#1352
+  New Discord:Rdmo1#1352
   Vouch: https://t.me/rdmovouch
   
  📌 Key Information
