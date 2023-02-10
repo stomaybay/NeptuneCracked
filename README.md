@@ -81,7 +81,8 @@ Becareful Using this tool, i am warning you to use this tool for Education Purpo
   <img src="https://media.discordapp.net/attachments/1006899534078685254/1032904143624491078/unknown.png">
 </p>
 
-
+```
+domain logger injector soon...
 
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1052511668585902080/1057544397425745980/pixel-jeff-christmas.gif">
