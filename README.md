@@ -24,12 +24,12 @@
  📌 Information
 
   The Neptune Multi Tool is currently for SALE right now
-  you can purchase it for a reasoning price.
+  you can purchase it for a cheap price.
   
   
  📌 Social
   
-  New Discord:Rdmo1#1352
+  Discord:Rdmo1#1352
   Vouch: https://t.me/rdmovouch
   
  📌 Key Information
