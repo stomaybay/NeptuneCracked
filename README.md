@@ -78,15 +78,15 @@ Becareful Using this tool, i am warning you to use this tool for Education Purpo
 
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1006899534078685254/1032904143624491078/unknown.png">
+  <img src="https://cdn.discordapp.com/attachments/1073238834478850100/1073853857249099796/image.png">
 </p>
 
 ```
-domain logger injector soon...
+roblox injector soon...
 ```
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1052511668585902080/1057544397425745980/pixel-jeff-christmas.gif">
+  <img src="https://streamable.com/ob2y5p">
 </p>
 
 ## Installation <img src="https://cdn3.emoji.gg/emojis/7277_green_flame.gif" width="30px"/>
