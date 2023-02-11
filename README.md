@@ -82,11 +82,13 @@ Becareful Using this tool, i am warning you to use this tool for Education Purpo
 </p>
 
 ```
-roblox injector soon...
+watch video tutorial below
 ```
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1073820110176931901/1073856057354502184/20230211142826.gif">
+
+  https://streamable.com/ob2y5p
+  
 </p>
 
 ## Installation <img src="https://cdn3.emoji.gg/emojis/7277_green_flame.gif" width="30px"/>
