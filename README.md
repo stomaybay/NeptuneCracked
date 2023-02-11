@@ -28,9 +28,9 @@
   
   
  📨 Social
-  
+ 
   Discord:Rdmo1#1352
-  Vouch: https://t.me/rdmovouch
+  Buyers Review: https://t.me/rdmovouch
   
  🔑 Key Information
 
