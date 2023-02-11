@@ -21,25 +21,25 @@
 <p align="center">
 
 ```
- 📌 Information
+ 🔍 Information
 
   The Neptune Multi Tool is currently for SALE right now
   you can purchase it for a cheap price.
   
   
- 📌 Social
+ 📨 Social
   
   Discord:Rdmo1#1352
   Vouch: https://t.me/rdmovouch
   
- 📌 Key Information
+ 🔑 Key Information
 
   The key was intentionally made in a site controlled
   by a paid domain.
   In that section we can control all the key that is sold.
   key only work on 1 device and same ip.
  
- 📌 Price Information 
+  💲Price Information 
   
   Add me on discord, you can ask for the price in my discord
   check the Social above to see my username and tag
