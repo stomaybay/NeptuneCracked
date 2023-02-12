@@ -37,8 +37,7 @@
 
  📣 REMEMBER
 
- That the key cant be shared nor reverse/crack it because it is only control
- by a domain.
+ That the key cant be shared nor reverse/crack it because it is only control a domain
  remember i am the only one can control the key and dont be dumb im telling you.
  Make sure to avoid people that sell the Neptune Multi Tool.
  they will tell you that they reversed/cracked it.
@@ -82,15 +81,16 @@ watch video tutorial below
 <p align="center">
 
 ```
-  ⭐ Just launch setup.bat for automatic installation
+ 🔧 Automatic Installation -    open setup.bat
+ 🔧 Manual install -    pip install -r requirements.txt & python neptune.py
 ```
 </p>
 
-> You need [python version 3.9](https://www.python.org/downloads/release/python-397/)
+> You need the latest python. install [here](https://www.python.org/downloads/release/python-397/)
 
 ## Python was not Found? <img src="https://cdn3.emoji.gg/emojis/7277_green_flame.gif" width="30px"/>
 </h1>
 
-> Getting this Error? You probably just installed python
+> You probably just installed python
 
 > How to fix? Just simply watch this video [here](https://youtu.be/uBnbVqUmZaQ) and follow the steps 
