@@ -24,41 +24,27 @@
  🔍 Information
 
   The Neptune Multi Tool is currently for SALE right now
-  you can purchase it for a cheap price.
-  
+  you can purchase it for a reasonable price.
+  Add my discord tag to ask for the prices and the description
+ 
   
  📨 Social
  
   Discord:Rdmo1#1352
   Buyers Review: https://t.me/rdmovouch
-  
- 🔑 Key Information
 
-  The key was intentionally made in a site controlled
-  by a paid domain.
-  In that section we can control all the key that is sold.
-  key only work on 1 device and same ip.
- 
-  💲Price Information 
-  
-  Add me on discord, you can ask for the price in my discord
-  check the Social above to see my username and tag
-  go to the telegram channel to see all the review and people that bought
-  the key.
-  
- ⚠️ IMPORTANT ⚠️
-
-  Make sure to avoid people that sell the Neptune Multi Tool.
-  they will tell you that they reversed/cracked it.
-  probably sell it for higher prices.
-  after they scam you they will give you an executable file or obfuscated python code
-  that will log you or rat you.
+  ( I am Always active on Discord & Friend Requests will be accepted within a minute )
 
  📣 REMEMBER
 
  That the key cant be shared nor reverse/crack it because it is only control
  by a domain.
- remember i am the only one can control the key and devices no others.
+ remember i am the only one can control the key and dont be dumb im telling you.
+ Make sure to avoid people that sell the Neptune Multi Tool.
+ they will tell you that they reversed/cracked it.
+ probably sell it for higher prices.
+ after they scam you they will give you an executable file or obfuscated python code
+ that will log you or rat you.
 
  DO NOT TRUST "RESELLER/E-VENDOR" OF THE NEPTUNE MULTI TOOL
 ```
