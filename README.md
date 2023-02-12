@@ -33,7 +33,7 @@
   Discord:Rdmo1#1352
   Buyers Review: https://t.me/rdmovouch
 
-  ( I am Always active on Discord & Friend Requests will be accepted within a minute )
+  ( I am always active on Discord & Friend Requests will be accepted within a minute )
 
  📣 REMEMBER
 
