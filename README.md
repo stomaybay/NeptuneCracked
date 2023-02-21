@@ -20,14 +20,7 @@
 
 <p align="center">
 
-```
- 🔍 Information
-
-  The Neptune Multi Tool is currently for SALE right now
-  you can purchase it for a reasonable price.
-  Add my discord tag to ask for the prices and the description
- 
-  
+```  
  📨 Social
  
   Discord:Rdmo1#1352
@@ -35,7 +28,11 @@
   Purchase Key here: https://neptunekey.mysellix.io/
              ( Instant key delivery! )
 
- 📣 REMEMBER
+🔍 Information
+
+  The Neptune Multi Tool is currently for SALE right now
+  you can purchase it for a reasonable price.
+  Add my discord tag to ask for the prices and the description
 
  That the key cant be shared nor reverse/crack it because it is only control a domain
  remember i am the only one can control the key and dont be dumb im telling you.
