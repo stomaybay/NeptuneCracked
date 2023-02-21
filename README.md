@@ -30,19 +30,16 @@
 
 🔍 Information
 
-  The Neptune Multi Tool is currently for SALE right now
-  you can purchase it for a reasonable price.
-  Add my discord tag to ask for the prices and the description
-
- That the key cant be shared nor reverse/crack it because it is only control a domain
- remember i am the only one can control the key and dont be dumb im telling you.
- Make sure to avoid people that sell the Neptune Multi Tool.
- they will tell you that they reversed/cracked it.
- probably sell it for higher prices.
- after they scam you they will give you an executable file or obfuscated python code
- that will log you or rat you.
-
- DO NOT TRUST "RESELLER/E-VENDOR" OF THE NEPTUNE MULTI TOOL
+   The KEY only work on 1 device.
+   only buyer can access the real file
+   cannot be cracked nor reverse the neptune tool
+          ( DO NOT TRUST RE-SELLER )
+ 
+   The KEY are control by ngrok server tunnel
+   i can add time, reduce time, & remove tool access
+   Many people complaining to me that they got scammed for buying the tool/key LMAO ( what dumb kid fr )
+   don't whine to me if you got scammed lmfao
+ 
 ```
 </p>
 
