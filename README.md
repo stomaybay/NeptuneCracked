@@ -26,6 +26,7 @@
   Discord:Rdmo1#1352
   Buyers Review: https://t.me/rdmovouch
   Purchase Key here: https://neptunekey.mysellix.io/
+  
              ( Instant key delivery! )
 
 🔍 Information
@@ -33,7 +34,8 @@
    The KEY only work on 1 device.
    only buyer can access the real file
    cannot be cracked nor reverse the neptune tool
-          ( DO NOT TRUST RE-SELLER )
+   
+            ( DO NOT TRUST RE-SELLER )
  
    The KEY are control by ngrok server tunnel
    i can add time, reduce time, & remove tool access
