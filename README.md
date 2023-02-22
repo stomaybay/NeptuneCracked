@@ -68,7 +68,7 @@ watch video tutorial below
 
 <p align="center">
 
-  https://streamable.com/ob2y5p
+  https://streamable.com/i5t5wk
   
 </p>
 
