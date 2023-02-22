@@ -25,9 +25,8 @@
  
   Discord:Rdmo1#1352
   Buyers Review: https://t.me/rdmovouch
-  Purchase Key here: https://neptunekey.mysellix.io/
   
-             ( Instant key delivery! )
+ Add me on discord to get price info
 
 🔍 Information
 
