@@ -26,7 +26,7 @@
   Discord:Rdmo1#1352
   Buyers Review: https://t.me/rdmovouch
   
- Add me on discord to get price info
+  Add me on discord to get price info
 
 🔍 Information
 
