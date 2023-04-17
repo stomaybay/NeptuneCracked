@@ -23,7 +23,8 @@
 ```  
  📨 Social
  
-  Discord:Rdmo1#1352
+  Discord:Disabled
+  Telegram: t.me/@rdmo12
   Buyers Review: https://t.me/rdmovouch
   
   Add me on discord to get price info
