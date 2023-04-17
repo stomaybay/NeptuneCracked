@@ -25,6 +25,7 @@
  
   Discord:Disabled
   Telegram: t.me/@rdmo12
+  (The only way you can connect with me is my telegram for now.)
   Buyers Review: https://t.me/rdmovouch
   
   Add me on discord to get price info
