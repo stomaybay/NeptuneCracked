@@ -23,9 +23,9 @@
 ```  
  📨 Social
  
-  Discord:Disabled
+  Discord:Rdmo1#8396
   Telegram: t.me/@rdmo12
-  (The only way you can connect with me is my telegram for now.)
+  (Discord is UP now!)
   Buyers Review: https://t.me/rdmovouch
   
   Add me on discord to get price info
