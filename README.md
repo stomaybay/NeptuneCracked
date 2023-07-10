@@ -23,7 +23,7 @@
 ```  
  📨 Social
  
-  Discord:Rdmo1#8396
+  Discord:Rdmo1#3020
   Telegram: t.me/@rdmo12
   (Discord is UP now!)
   Buyers Review: https://t.me/rdmovouch
