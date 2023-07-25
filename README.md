@@ -25,7 +25,7 @@
  
   Discord: Rdmo1#3020
   Telegram: t.me/@rdmo12
-  Buyers Review: https://t.me/rdmovouch
+  Buyers Review: https://t.me/s/rdmovouch
   
   Add me on discord to get price info
 
