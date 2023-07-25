@@ -32,7 +32,7 @@
 🔍 Information
 
    - The key only work on 1 device ( HWID LOCK ) you can ask me if
-   you want you're key to have more access in different device
+     you want you're key to have more access in different device
    - only buyer can access the real file
    - cannot be cracked nor reverse the neptune tool
    
