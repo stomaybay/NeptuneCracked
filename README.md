@@ -23,9 +23,8 @@
 ```  
  📨 Social
  
-  Discord:Rdmo1#3020
+  Discord: Rdmo1#3020
   Telegram: t.me/@rdmo12
-  (Discord is UP now!)
   Buyers Review: https://t.me/rdmovouch
   
   Add me on discord to get price info
@@ -40,8 +39,9 @@
  
    The KEY are control by ngrok server tunnel
    i can add time, reduce time, & remove tool access
-   Many people complaining to me that they got scammed for buying the tool/key LMAO ( what dumb kid fr )
-   don't whine to me if you got scammed lmfao
+   Many people complaining to me that they got scammed for buying the tool/key
+   don't be coming to me crying because you got scammed
+   i cant help you
  
 ```
 </p>
