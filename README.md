@@ -27,9 +27,10 @@
   Telegram: t.me/@rdmo12
   Buyers Review: https://t.me/s/rdmovouch
   
-  📌 50$ /lifetime access
-  📌 35$ /1 month access
-  📌 20$ /1 week access
+  📌 $50.00 USD/ lifetime access
+  📌 $35.00 USD/ 1 month access
+  📌 $20.00 USD/ 1 week access
+      Price may go up soon!
 
   Add me on discord if you have any questions
 
