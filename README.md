@@ -26,6 +26,8 @@
   Discord: Rdmo1#4104
   Telegram: t.me/@rdmo12
   Buyers Review: https://t.me/s/rdmovouch
+
+###Note that I am not the real owner.. ( https://github.com/Rdmo1/Neptune ) ###
   
   📌 $70.00 USD/ lifetime access
   📌 $50.00 USD/ 5 months access
